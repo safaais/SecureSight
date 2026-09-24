@@ -346,6 +346,7 @@ SecureSight was developed as a graduation project at **Jeddah International Coll
 | Role | Contributor |
 |------|-------------|
 | Mobile app (Flutter) | [@iiewan](https://github.com/iiewan) |
+| Firebase Integration | [@iiewan](https://github.com/iiewan) |
 | AI service (Python) | [@safaais](https://github.com/safaais) |
 | Backend API | [@safaais](https://github.com/safaais) |
 
