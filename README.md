@@ -3,11 +3,7 @@
 # SecureSight
 
 **AI-powered surveillance for real-time detection of abnormal and suspicious activity.**
-![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Auth%20%7C%20Firestore-FFCA28?logo=firebase&logoColor=black)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 [Overview](#overview) •
 [Features](#features) •
