@@ -1,0 +1,34 @@
+# ===== Secrets =====
+.env
+
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+ENV/
+
+# ===== AI Artifacts (large files) =====
+model/
+data/
+plots/
+sequences/
+HMDB51/
+*.pt
+*.pth
+*.ckpt
+training_complete.flag
+
+# ===== IDE & OS =====
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Thumbs.db:encryptable
+
+# ===== Misc =====
+*.log
+*.tmp
