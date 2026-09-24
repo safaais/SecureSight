@@ -5,12 +5,6 @@
 **AI-powered surveillance for real-time detection of abnormal and suspicious activity.**
 
 
-[Overview](#overview) •
-[Features](#features) •
-[Architecture](#system-architecture) •
-[Getting Started](#getting-started) •
-[Roadmap](#roadmap)
-
 </div>
 
 <!-- Optional: add a short demo GIF here, e.g. -->
