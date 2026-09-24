@@ -153,6 +153,11 @@ SecureSight/
 │   ├── main.py             # Real-time detection loop
 │   └── requirements.txt
 │
+│├── backend/                # FastAPI backend service
+│   ├── main.py             # API endpoints (alerts, devices, FCM)
+│   ├── requirements.txt
+│   └── .env.example
+│
 ├── assets/translations/    # i18n (en, ar)
 ├── docs/images/            # README images
 ├── android/ ios/ web/ ...  # Platform folders
@@ -287,6 +292,13 @@ All AI-service settings are read from environment variables in `ai_service/.env`
 | `USE_LLM_ALERTS` | Enable GenAI alert descriptions | `false` |
 | `OLLAMA_MODEL` | Ollama model used for enrichment | `llama3` |
 
+### Backend (`backend/.env`)
+
+| Variable | Description | Example |
+|----------|-------------|---------|
+| `FIREBASE_CREDENTIALS` | Path to Firebase Admin SDK JSON | `firebase-adminsdk.json` |
+| `PORT` | Backend server port | `8000` |
+| `HOST` | Backend bind address | `0.0.0.0` |
 ---
 
 ## Security Notes
@@ -329,7 +341,7 @@ Video surveillance can affect people's privacy. Deploy SecureSight only where mo
 
 ## Team
 
-SecureSight was developed as a graduation project at **[Your University Name]**.
+SecureSight was developed as a graduation project at **Jeddah International College**.
 
 | Role | Contributor |
 |------|-------------|
