@@ -153,7 +153,7 @@ SecureSight/
 │   ├── main.py             # Real-time detection loop
 │   └── requirements.txt
 │
-│├── backend/                # FastAPI backend service
+├── backend/                # FastAPI backend service
 │   ├── main.py             # API endpoints (alerts, devices, FCM)
 │   ├── requirements.txt
 │   └── .env.example
