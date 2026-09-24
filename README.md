@@ -90,7 +90,7 @@ When a suspicious event is detected (for example a fight or a fall), an alert is
 ## System Architecture
 
 <p align="center">
-  <img src="docs/images/architecture.png" alt="SecureSight system architecture diagram" width="850">
+  <img width="1070" height="587" alt="Image" src="https://github.com/user-attachments/assets/1d185033-4002-4df5-84be-92515b38eb07" />
 </p>
 
 <!--
