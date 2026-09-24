@@ -333,7 +333,7 @@ SecureSight was developed as a graduation project at **[Your University Name]**.
 
 | Role | Contributor |
 |------|-------------|
-| Mobile app (Flutter) | [@safaais](https://github.com/safaais) |
+| Mobile app (Flutter) | [@safaais](https://github.com/iiewan) |
 | AI service (Python) | [@safaais](https://github.com/safaais) |
 | Backend API | [@safaais](https://github.com/safaais) |
 
