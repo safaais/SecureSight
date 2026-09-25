@@ -114,7 +114,7 @@ When a suspicious event is detected (for example a fight or a fall), an alert is
 
 | Login | Home | Live View | Alerts |
 |:-----:|:----:|:---------:|:------:|
-| <img src="docs/images/login.png" width="200"> | <img src="docs/images/home.png" width="200"> | <img src="docs/images/live.png" width="200"> | <img src="docs/images/alerts.png" width="200"> |
+| <!-- Uploading "Screenshot 2025-03-11 024750.png"... --> | <img src="docs/images/home.png" width="200"> | <img src="docs/images/live.png" width="200"> | <img src="docs/images/alerts.png" width="200"> |
 
 ---
 
