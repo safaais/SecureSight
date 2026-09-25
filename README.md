@@ -345,11 +345,6 @@ SecureSight was developed as a graduation project at **Jeddah International Coll
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## Acknowledgments
 
