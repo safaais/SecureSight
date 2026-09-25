@@ -1,5 +1,6 @@
 <div align="center">
-# SecureSight
+  
+**SecureSight**
 
 **AI-powered surveillance for real-time detection of abnormal and suspicious activity.**
 
