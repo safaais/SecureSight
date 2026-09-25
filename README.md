@@ -90,7 +90,7 @@ When a suspicious event is detected (for example a fight or a fall), an alert is
 ## System Architecture
 
 <p align="center">
-  <img width="1000" height="550" alt="Image" src="https://github.com/user-attachments/assets/1d185033-4002-4df5-84be-92515b38eb07" />
+  <img width="950" height="500" alt="Image" src="https://github.com/user-attachments/assets/1d185033-4002-4df5-84be-92515b38eb07" />
 </p>
 
 <!--
@@ -114,7 +114,7 @@ When a suspicious event is detected (for example a fight or a fall), an alert is
 
 | Login | Home | Live View | Alerts |
 |:-----:|:----:|:---------:|:------:|
-| <img width="340" height="721" alt="Image" src="https://github.com/user-attachments/assets/3d1ccaf5-996f-4bb6-a5c6-0b3dde8c6b9e" /> | <img width="340" height="721" alt="Image" src="https://github.com/user-attachments/assets/422695d7-8214-4ce2-bb48-f527b629a626" /> |<img width="340" height="721" alt="Image" src="https://github.com/user-attachments/assets/5426d86e-b0f7-4442-9b35-b04ae56c299d" /> | <img width="340" height="721" alt="Image" src="https://github.com/user-attachments/assets/bb5a95e1-1eac-46f4-8362-981c0cf2fb95" />
+| <img width="340" height="721" alt="Image" src="https://github.com/user-attachments/assets/3d1ccaf5-996f-4bb6-a5c6-0b3dde8c6b9e" /> | <img width="340" height="721" alt="Image" src="https://github.com/user-attachments/assets/bb5a95e1-1eac-46f4-8362-981c0cf2fb95" />|<img width="340" height="721" alt="Image" src="https://github.com/user-attachments/assets/5426d86e-b0f7-4442-9b35-b04ae56c299d" /> |<img width="340" height="721" alt="Image" src="https://github.com/user-attachments/assets/422695d7-8214-4ce2-bb48-f527b629a626" />  
  | 
 
 
